@@ -13,7 +13,7 @@ print(name)
 var distanceTraveled: Double = 0
 
 //:  Ahora, asígnale un valor de 54.3 a `distanceTraveled` (distancia recorrida). ¿Se compila el código? Regresa y configura un tipo explícito en `distanceTraveled` para que compile el código.
-distanceTraveled = 53.4
+distanceTraveled = 54.3
 
 /*:
 [Anterior](@previous) | Página 9 de 10 | [Siguiente: Ejercicio con una app: Porcentaje completado](@next)
