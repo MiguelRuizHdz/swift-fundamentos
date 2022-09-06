@@ -5,10 +5,10 @@
 
  Decides que tu app de seguimiento de actividad física le muestre al usuario qué porcentaje de su objetivo ha alcanzado el día de hoy. Declara una variable denominada `percentCompelted` (porcentaje completado) y configúrala en 0. No le asignes un tipo de manera explícita.
  */
- 
+var percentCompelted: Double = 0
 
 //:  Imagina que, en determinado momento del día, un usuario ha dado 3,467 pasos de su objetivo total de 10,000. Esto significa que ha completado el 34,67% de su objetivo. Asigna el valor 34.67 a `percentCompleted` (porcentaje completado). ¿Se compila el código? Regresa a la función y asígnale un tipo de manera explícita a `percentCompleted` que permitirá que se compile el código.
- 
+percentCompelted = 34.67
 
 /*:
  _Copyright © 2021 Apple Inc._
