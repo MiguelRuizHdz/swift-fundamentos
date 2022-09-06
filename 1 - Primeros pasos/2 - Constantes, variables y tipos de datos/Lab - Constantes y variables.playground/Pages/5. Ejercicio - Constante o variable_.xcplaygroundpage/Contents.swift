@@ -10,7 +10,11 @@
  
  Para cada una de las estadísticas detalladas anteriormente, declara una constante o una variable, y asígnale un valor que corresponda a una publicación imaginaria. Asegúrate de usar nomenclaturas adecuadas.
  */
- 
+var likes: Int = 0
+var comments: Int = 0
+let yearCreated: Int = 2022
+let monthCreated: Int = 9
+let dayCreated: Int = 6
 
 /*:
 [Anterior](@previous) | Página 5 de 10 | [Siguiente: Ejercicio con una app: Seguimiento de actividad física. ¿Constante o variable?](@next)
