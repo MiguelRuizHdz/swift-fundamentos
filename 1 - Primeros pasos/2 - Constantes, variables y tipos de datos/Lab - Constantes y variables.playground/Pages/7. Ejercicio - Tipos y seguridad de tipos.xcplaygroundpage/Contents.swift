@@ -11,10 +11,14 @@ var trueOrFalse = true
 // firstDecimal = trueOrFalse
 print("Por que son de diferente tipo")
 //:  Declara una variable y asígnale un valor de cadena. Luego, intenta asignarla a `firstDecimal` (primer decimal). ¿Se compila? Imprime una declaración en la consola para explicar por qué no y elimina la línea de código que no se compila.
- 
+var cadena = "texto"
+// firstDecimal = cadena
+print("Por que son de distinto tipo")
 
 //:  Por último, declara una variable con un valor de número entero. Luego, intenta asignarla a `firstDecimal` (primer decimal). ¿Por qué no se compila a pesar de que ambas variables son números? Imprime una declaración en la consola para explicar por qué no y elimina la línea de código que no se compila.
- 
+var entero = 1
+//firstDecimal = entero
+print("Por que son variables de diferente tipo")
 
 /*:
 [Anterior](@previous) | Página 7 de 10 | [Siguiente: Ejercicio con una app: Seguimiento de distintos tipos](@next)
