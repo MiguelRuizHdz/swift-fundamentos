@@ -11,7 +11,12 @@
 - Objetivo de pasos: el objetivo de pasos que el usuario quiere alcanzar cada día.
 - Frecuencia cardíaca promedio: la frecuencia cardíaca promedio del usuario durante las últimas 24 horas.
  */
- 
+let userName: String = "Miguel"
+var age: Int = 22
+var stepsToday: Int = 2319
+var stepsGoal: Int = 15_000
+var heartRateAverage: Int = 99
+
 
 /*:
  Ahora, vuelve a tu función y agrega una línea luego de cada declaración de constante o variable, En esas líneas, imprime una declaración para explicar por qué declaraste cada dato como constante o variable.
