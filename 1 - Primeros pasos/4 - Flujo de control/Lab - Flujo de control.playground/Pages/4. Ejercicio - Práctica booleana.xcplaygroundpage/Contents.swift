@@ -13,6 +13,8 @@ let hasFish = true
 let hasPizza = false
 let hasVegan = true
 
+if hasFish || hasPizza
+
 //:  Imagina que estás tratando de decidir si sales a caminar o no. Decides que irás a caminar si no llueve o si hace 27 grados o más y hay sol. Crea una constante `isNiceWeather` (hace buen tiempo) equivalente a una expresión cuya evaluación dé como resultado un valor booleano que indique si el clima es suficientemente bueno o no para que salgas a caminar. Escribe una instrucción “if” que imprima "¡Saldré a caminar!" si hace buen tiempo.
 let temp = 82
 let isRaining = true
